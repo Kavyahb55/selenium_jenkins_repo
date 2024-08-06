@@ -8,7 +8,7 @@ public class DemoTest {
 	
 	public void sample() 
 	{
-		System.out.println("DemoTest executed in jenkins");
+		System.out.println("DemoTest executed in jenkins...");
 	}
 
 }
